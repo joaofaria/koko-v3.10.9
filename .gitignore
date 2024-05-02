@@ -18,8 +18,6 @@ config.yml
 host_key
 cmd/logs
 cmd/kokodir
-build
-build/
 release
 !config_example.yml
 
