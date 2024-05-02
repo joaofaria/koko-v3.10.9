@@ -14,7 +14,6 @@ data/
 log/
 .idea/
 vendor/
-config.yml
 host_key
 cmd/logs
 cmd/kokodir
