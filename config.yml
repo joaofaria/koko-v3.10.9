@@ -4,7 +4,7 @@
 CORE_HOST: http://127.0.0.1:8080   # Core 的地址
 
 # 项目名称, 会用来向Jumpserver注册, 识别而已, 不能重复
-NAME: "koko"
+NAME: "koko-unique"
 
 # Bootstrap Token, 预共享秘钥, 用来注册coco使用的service account和terminal
 # 请和jumpserver 配置文件中保持一致，注册完成后可以删除
